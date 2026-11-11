@@ -275,6 +275,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://pipedream.com/s.v0/app_Noh9dw/logo/orig" height="14"/> [Slite](https://github.com/fajarmf/slite-mcp) - Model Context Protocol server for Slite integration. Search and retrieve notes, browse note hierarchies, and access content from your Slite workspace.
 - <img src="https://cdn.simpleicons.org/todoist/E44332" height="14"/> [Todoist](https://github.com/abhiz123/todoist-mcp-server) - An MCP server implementation for Todoist, enabling natural language task management.
 - <img src="https://cdn.simpleicons.org/googlekeep/FFBB00" height="14"/> [Google Keep](https://github.com/feuerdev/keep-mcp) - Read, create, update and delete Google Keep notes.
+- <img src="https://raw.githubusercontent.com/rgdevment/Tisty/main/assets/icons/tisty-256.png" height="14"/> [Tisty](https://github.com/rgdevment/Tisty) - Local memory and context for your AI agent from the [Tisty](https://www.tisty.app/) desktop app: tasks, documents and notes in Markdown on your own disk. Reads a document's outline first and then only the section it needs, says what changed since last session, and finds how past tasks were solved. No account, no telemetry.
 
 <br />
 
